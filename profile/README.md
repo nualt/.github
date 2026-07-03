@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nualt
+# nualt studio 
 
 ### Creative web development, open-source tools, and small digital systems with a point of view.
 
@@ -26,9 +26,9 @@ Just sharp websites, useful tools, and code that does what it says.
 
 ---
 
-## What is Nualt?
+## What is nualt studio?
 
-Nualt is a tiny creative web studio building websites, storefronts, interfaces, and open-source tools.
+nualt studio is a tiny creative web studio building websites, storefronts, interfaces, and open-source tools.
 
 We like projects with a strong angle.  
 The kind that need design, code, taste, and a bit of stubbornness.
