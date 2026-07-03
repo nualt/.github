@@ -115,15 +115,7 @@ If one of our packages saves you time, rage, or a small existential crisis, you 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomassarazin&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=thomassarazin&theme=graywhite&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarazin&layout=compact&theme=graywhite&hide_border=true" alt="Top languages" />
 
 </div>
 
