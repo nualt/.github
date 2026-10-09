@@ -27,9 +27,12 @@
 
 <table>
 <tr>
-<td width="33%"><a href="https://github.com/nualt/medusa-plugin-better-auth"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-medusa-plugin-better-auth.svg" width="100%" alt="medusa-plugin-better-auth" /></a></td>
-<td width="33%"><a href="https://github.com/nualt/nextjs-theme-toggle"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-nextjs-theme-toggle.svg" width="100%" alt="nextjs-theme-toggle" /></a></td>
-<td width="33%"><a href="https://github.com/nualt/responsive-motion"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-responsive-motion.svg" width="100%" alt="responsive-motion" /></a></td>
+<td width="50%"><a href="https://github.com/nualt/medusa-plugin-better-auth"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-medusa-plugin-better-auth.svg" width="100%" alt="medusa-plugin-better-auth" /></a></td>
+<td width="50%"><a href="https://github.com/nualt/agent-memory-starter"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-agent-memory-starter.svg" width="100%" alt="agent-memory-starter" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/nualt/responsive-motion"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-responsive-motion.svg" width="100%" alt="responsive-motion" /></a></td>
+<td width="50%"><a href="https://github.com/nualt/nextjs-theme-toggle"><img src="https://raw.githubusercontent.com/nualt/.github/main/assets/repo-nextjs-theme-toggle.svg" width="100%" alt="nextjs-theme-toggle" /></a></td>
 </tr>
 </table>
 
