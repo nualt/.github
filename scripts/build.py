@@ -32,9 +32,9 @@ HEADLINE = ["Creative web development",
             "Small digital systems with a point of view"]
 # Real width of each line at 44px, measured in Chrome with getComputedTextLength() on the
 # embedded font. A line missing here falls back to the estimate and sits slightly off-centre.
-HEADLINE_PX = {"Creative web development": 566,
-               "Open-source tools": 396,
-               "Small digital systems with a point of view": 876}
+HEADLINE_PX = {"Creative web development": 522,
+               "Open-source tools": 359,
+               "Small digital systems with a point of view": 783}
 
 ABOUT = {
     "name": "nualt studio",
